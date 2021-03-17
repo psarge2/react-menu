@@ -24,8 +24,12 @@ const Navbar = () => {
             Sign Up
           </NavLink>
           <NavBtn>
-            <NavBtnLink to="/signin">Sign In</NavBtnLink>
+          <NavBtnLink to="/signin">Sign In</NavBtnLink>
           </NavBtn>
+          {/* 2nd Nav */}
+          {/*<NavBtn>
+            <NavBtnLink to="/signin">Sign In</NavBtnLink>
+          </NavBtn>*/}
         </NavMenu>
       </Nav>
     </>
